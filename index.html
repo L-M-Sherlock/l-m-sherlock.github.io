@@ -66,6 +66,13 @@
             border-radius: 10px;
             background-color: rgb(227, 214, 198);
         }
+
+        @media (max-width: 600px) {
+            .github-stats img {
+                width: 100%;
+                height: auto;
+            }
+        }
     </style>
 </head>
 
@@ -135,7 +142,7 @@
 
     <div class="section">
         <h2>GitHub Stats</h2>
-        <div>
+        <div class="github-stats">
             <img src="https://github-readme-stats-l-m-sherlock.vercel.app/api?username=L-M-Sherlock&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
                 alt="My Github stats" height="200" width="425" />
             <img src="https://github-readme-stats-l-m-sherlock.vercel.app/api/top-langs/?username=L-M-Sherlock&hide=kotlin,java,html,css,Jupyter+Notebook&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER"
