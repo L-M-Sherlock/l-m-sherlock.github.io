@@ -2,7 +2,7 @@ Sitemap: https://l-m-sherlock.github.io/sitemap.txt
 Sitemap: https://l-m-sherlock.github.io/ZhiHuArchive/sitemap.txt
 
 User-agent: *
-Disallow: /ZhiHuArchive/article/
-Disallow: /ZhiHuArchive/answer/
-Disallow: /ZhiHuArchive/question/
-Disallow: /ZhiHuArchive/pin/
+Disallow: /zhihuarchive/article/
+Disallow: /zhihuarchive/answer/
+Disallow: /zhihuarchive/question/
+Disallow: /zhihuarchive/pin/
