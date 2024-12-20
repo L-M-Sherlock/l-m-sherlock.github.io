@@ -1,8 +1,2 @@
 Sitemap: https://l-m-sherlock.github.io/sitemap.txt
-Sitemap: https://l-m-sherlock.github.io/ZhiHuArchive/sitemap.txt
-
-User-agent: *
-Disallow: /zhihuarchive/article/
-Disallow: /zhihuarchive/answer/
-Disallow: /zhihuarchive/question/
-Disallow: /zhihuarchive/pin/
+Sitemap: https://l-m-sherlock.github.io/ZhiHuArchive/sitemap.xml
