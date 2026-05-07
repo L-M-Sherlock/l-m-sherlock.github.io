@@ -1,2 +1,6 @@
-Sitemap: https://l-m-sherlock.github.io/sitemap.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://l-m-sherlock.github.io/sitemap.xml
 Sitemap: https://l-m-sherlock.github.io/ZhiHuArchive/sitemap.xml
+Sitemap: https://l-m-sherlock.github.io/thoughts-memo/sitemap.xml
